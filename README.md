@@ -1,2 +1,3 @@
-# examples
-Learn by examples
+# Solved Programs
+
+1. [Python Exercise](/Python/README.md)
